@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "P7_b",
+            "request": "launch",
+            "mainClass": "P7_b",
+            "projectName": "iCenter_4393cd54"
+        },
+        {
+            "type": "java",
+            "name": "P7_a",
+            "request": "launch",
+            "mainClass": "P7_a",
+            "projectName": "iCenter_4393cd54"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}\\.appmap\\lib\\java\\appmap.jar"
+        }
+    ]
+}
